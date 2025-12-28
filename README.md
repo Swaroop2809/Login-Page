@@ -1,18 +1,18 @@
-#🔐 Login Page – PHP & MySQL Authentication System
+# 🔐 Login Page – PHP & MySQL Authentication System
 
-This project is a basic user authentication system developed using PHP and MySQL. It allows users to log in using their registered email address and password, which are verified against records stored in the database.
+This project is a basic user authentication system developed using PHP and MySQL. It allows users to log in using their registered email address and password, which are verified against records stored[...]
 
 The application demonstrates fundamental concepts of backend development, including form handling, server-side validation, database connectivity, and user authentication workflows.
 
 This project was developed as part of my Web Developer Internship at TechnoHacks, where I was assigned to build a functional login module with backend integration.
 
-##📁 Project Structure
+## 📁 Project Structure
 ├── LoginPage.php      # Login UI (frontend form)
 ├── login.php          # Backend authentication logic
 ├── welcome.php        # Landing page after successful login
 ├── README.md          # Project documentation
 
-##⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 PHP – Server-side scripting and authentication logic
 
@@ -20,7 +20,7 @@ MySQL – Database for storing user credentials
 
 HTML & CSS – User interface and styling
 
-##✨ Key Features
+## ✨ Key Features
 
 User login using registered email and password
 
@@ -32,7 +32,7 @@ Redirects to a welcome page upon successful login
 
 Displays error messages for invalid credentials
 
-##🔄 Application Flow
+## 🔄 Application Flow
 
 User enters email and password on the login page
 
@@ -48,7 +48,7 @@ If credentials are invalid:
 
 Error message is displayed
 
-##🛠️ Setup & Installation
+## 🛠️ Setup & Installation
 
 Clone the repository:
 
@@ -80,7 +80,7 @@ Run the project in your browser:
 
 http://localhost/LoginPage.php
 
-##📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 Understanding of PHP–MySQL integration
 
@@ -90,12 +90,12 @@ Knowledge of client–server architecture
 
 Improved skills in form handling and validation
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
 Swaroop Harsh
 Web Developer Intern – TechnoHacks
 
-##⭐ Note
+## ⭐ Note
 
 This project focuses on learning and demonstration purposes and can be extended further by adding:
 
